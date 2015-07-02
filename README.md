@@ -1,13 +1,10 @@
-Grayscale Jekyll theme
+NASH THE BAND
 =========================
 
-Jekyll theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
-
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/grayscale-theme)
+The official website of [NASH THE BAND](http://nashtheband.se/)
 
 ## Screenshot
 ![screenshot](https://raw.githubusercontent.com/jeromelachaud/grayscale-theme/master/screenshot.png)
 
 =========
-For more details, read the [documentation](http://jekyllrb.com/)
+Skapad av [WEBBAB](https://webbab.se/)

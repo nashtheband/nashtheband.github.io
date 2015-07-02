@@ -7,7 +7,8 @@ description: "This music should be played loud! Booking: nashtheband@gmail.com Y
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
-  links: '#219ab3'
+  primary-light: '#f3f3f3'
+  links: '#F4D03F'
 
 # Footer settings
 footer: NASH THE BAND
